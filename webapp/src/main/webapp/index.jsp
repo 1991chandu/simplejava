@@ -1,1 +1,2 @@
- Welcome to Valaxy Technologies pvt ltd
+welcome to first ci/cd sample project
+
